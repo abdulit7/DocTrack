@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix GFI DocTrack",
+  "description": "ShipsGo-styled container tracking and customer document compliance platform with automated ETD/ETA alerts, invoice clearance controls, and live container tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
